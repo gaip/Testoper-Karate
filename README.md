@@ -1,7 +1,7 @@
 # KarateAPIAutomation
 Installation
 
-This require you to install
+Those are require you to install
 
     Java 8
     Maven
